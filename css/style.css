@@ -289,6 +289,8 @@ button:focus{
 
 .top-header .navbar{
 	padding: 0px;
+	background: url(../images/bg-img.jpg);
+
 }
 
 .top-header{
@@ -801,6 +803,8 @@ button:focus{
 
 .gallery-box{
 	padding: 70px 0px;
+	background: url(../images/bg-img.jpg);
+
 }
 
 .gallery-box ul{}
@@ -950,6 +954,8 @@ button:focus{
 
 .events-box{
 	padding: 70px 0px;
+	background: url(../images/bg-img.jpg);
+
 }
 .event-inner{
 	background: #ffffff;
