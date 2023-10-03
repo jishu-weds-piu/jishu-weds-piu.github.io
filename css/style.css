@@ -627,6 +627,7 @@ button:focus{
 
 .story-box{
 	padding: 70px 0px;
+	background: url(../images/bg-img.jpg);
 }
 
 .align-left {
